@@ -1,3 +1,15 @@
+*{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
 #header{
-    background-color: aqua;
+    height: 147px;
+}
+h1{
+    font-size: 80px;
+    margin-top: 15px;
+    float: left;
+}
+
+nav{
+    float: right;
 }
