@@ -7,9 +7,26 @@
 h1{
     font-size: 80px;
     margin-top: 15px;
-    float: left;
+    text-align: center;
 }
 
-nav{
-    float: right;
+h3{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+#principal{
+    height: 400px;
+}
+
+#dolado{
+    height: 400px;
+    border-radius: 30px;
+}
+
+.icones{
+    margin-left: 40px;
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
 }
